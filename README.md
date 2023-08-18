@@ -16,7 +16,7 @@
 
 * 開啟 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * 按一下**匯入**，然後按一下**匯入 URL**
-* 貼上 **https://github.com/kevin5603/maqueen_sumou** 並按一下匯入 
+* 貼上 **https://github.com/kevin5603/maqueen_sumou** 並按一下匯入
 
 #### 中繼資料 (用於搜索、渲染)
 
